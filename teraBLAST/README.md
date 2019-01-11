@@ -1,2 +1,2 @@
-# Acient-DNA
+# teraBLAST
 Acient DNA
